@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Linefont&weight=200&size=70&duration=7000&pause=10&color=26F714&multiline=true&random=false&width=800&height=100&lines=gggggggguagg%C5%A4%C4%80Fgggggggggggggggguagg%C5%A4%C4%80Fgggggggggggggggguagg%C5%A4%C4%80Fgggggggggggggggguagg%C5%A4%C4%80Fgggggggggggggggg)](https://git.io/typing-svg)
+<!--
