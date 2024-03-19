@@ -50,6 +50,7 @@ width="440">
 width="400">
 -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="1000">
+<!----
 <div style="position: relative; display: flex; flex-wrap: wrap;">
     <img src="https://media.giphy.com/media/3YGjiWVeoXM9Q0zj9H/giphy.gif" alt="GIF" width="290" style="height: 200px; object-fit: fill;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" width=702" style="height: 200px; object-fit: fill;">
