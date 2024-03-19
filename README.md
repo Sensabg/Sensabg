@@ -64,7 +64,7 @@ width="400">
      <img align="left" width="400" height="100" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" width="450" style="height: 200px; object-fit: fill;">
 </p>
 <div style="display: flex; flex-direction: column; width: 286px;">
---->
+<
 </div>
 <img align="left" width="290" height="40" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" style="height: 370px; object-fit: fill;">
 <p float="left">
