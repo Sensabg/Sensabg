@@ -66,93 +66,19 @@ width="400">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sensabg&theme=solarized_dark&utcOffset=2"alt="Daniel's GitHub Stats" style="height: 151px; object-fit: fill;">
 <img src="https://media.giphy.com/media/k1g9hVriuo6Hs4Ty9I/giphy.gif" alt="GIF" width="352" style="height: 150px; object-fit: fill;">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="767">
+<!---
+<img align="left" width="770" height="100" src="https://media.giphy.com/media/A97A8cvceNPeU/giphy.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="767">
 <p>
 </div>
-
-
-
-<!----
-
-
-
-
-    <div style="display: flex; flex-direction: column; width: 286px;">
-       <img align="left" width="290" height="100" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" width="290" style="height: 400px; object-fit: fill;">
- <p>
-<img align="left" width="400" height="100" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sensabg&theme=solarized_dark&exclude=rust" alt="Daniel's GitHub Stats" width="450" style="height: 200px; object-fit: fill;">
- <p>
-     <img align="left" width="400" height="100" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" width="450" style="height: 200px; object-fit: fill;">
+<p>
+    <img width="150" height="150"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVxNDJtODliYThlMjg0cGlma3MzcDd6aDc4cW9ibWQ4dDF1ZGV0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NM878WL4a8pfE9gDK5/giphy.gif" alt="GIF">
+<img width="155" height="155"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ5bTN6YXR3dWVpeWZ0MXExbzcxMWFkZWlqZzB3cmd3OHpsa3ZkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wql4LnfxfoUbDUs1N8/giphy.gif" alt="GIF">
+ <img width="150" height="150"src="https://media.giphy.com/media/rpbYdRj0y1iRLdcRtE/giphy.gif" alt="GIF">
+<img width="150" height="150"src="https://media.giphy.com/media/l0Iyk5dXTlJ3YR7yM/giphy.gif" alt="GIF">
+<img width="150" height="150"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MzZHVld3ZsMGlvcThsc3AzZ3plbmloaDlpdDczdm1ncmxpMm11diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kqFHQHDUrCLuBekoM6/giphy.gif" alt="GIF">
 </p>
-</div>
-<div style="display: flex; flex-direction: column; width: 286px;">
-    <p>
-   <img align="left" width="290" height="40" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" style="height: 370px; object-fit: fill;">
- float="left">
-        <img align="left"src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sensabg&theme=solarized_dark&exclude=rust" alt="Daniel's GitHub Stats" hspace="50"  width="300px" style="float:left; padding-right:50px" }
-    <p>
-        <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" hspace="50"  width="300px" style="float:left; padding-right:10px" }
-    </p>
-</p>
-</div>
-<div style="display: flex; flex-direction: column; width: 286px;">
-  <img align="left" width="290" height="40" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" style="height: 370px; object-fit: fill;">
-
-
-
-
-
-
-
-<!--
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8"   style="margin-top: -100px; ">
-**Sensabg/Sensabg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Linefont&weight=200&size=70&duration=7000&pause=10&color=26F714&multiline=true&random=false&width=800&height=100&lines=gggggggguagg%C5%A4%C4%80Fgggggggggggggggguagg%C5%A4%C4%80Fgggggggggggggggguagg%C5%A4%C4%80Fgggggggggggggggguagg%C5%A4%C4%80Fgggggggggggggggg)](https://git.io/typing-svg)
-<!--
-
-
-<!----
-
-
-
-
-    <div style="display: flex; flex-direction: column; width: 286px;">
-       <img align="left" width="290" height="100" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" width="290" style="height: 400px; object-fit: fill;">
- <p>
-<img align="left" width="400" height="100" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sensabg&theme=solarized_dark&exclude=rust" alt="Daniel's GitHub Stats" width="450" style="height: 200px; object-fit: fill;">
- <p>
-     <img align="left" width="400" height="100" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" width="450" style="height: 200px; object-fit: fill;">
-</p>
-</div>
-<div style="display: flex; flex-direction: column; width: 286px;">
-    <p>
-   <img align="left" width="290" height="40" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" style="height: 370px; object-fit: fill;">
- float="left">
-        <img align="left"src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sensabg&theme=solarized_dark&exclude=rust" alt="Daniel's GitHub Stats" hspace="50"  width="300px" style="float:left; padding-right:50px" }
-    <p>
-        <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" hspace="50"  width="300px" style="float:left; padding-right:10px" }
-    </p>
-</p>
-</div>
-<div style="display: flex; flex-direction: column; width: 286px;">
-  <img align="left" width="290" height="40" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" style="height: 370px; object-fit: fill;">
-
-
-
-
-
-
-
+---->
 <!--
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8"   style="margin-top: -100px; ">
 **Sensabg/Sensabg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
