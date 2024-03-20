@@ -55,7 +55,33 @@ width="400">
     <img src="https://media.giphy.com/media/3YGjiWVeoXM9Q0zj9H/giphy.gif" alt="GIF" width="200" style="height: 150px; object-fit: fill;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" style="height: 151px; object-fit: fill;">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="730">
+</div>
+
+<div style="position: relative; display: flex; flex-wrap: wrap;">
+<p>
+ <img src="https://media.giphy.com/media/xg2jowPlHhIp4koVAm/giphy.gif" alt="GIF" width="250"  style="height: 150px; object-fit: fill;">
+ <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sensabg&theme=solarized_dark&exclude=rust" alt="Daniel's GitHub" width="237"  hspace="0"  style="height: 163px; object-fit: fill;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" width="237"  style="height: 163px; object-fit: fill;">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="730">
+</p>
+</div>
+
+<div style="position: relative; display: flex; flex-wrap: wrap;">
+<p>
+ <img src="https://media.giphy.com/media/NDpR0Ot6vSAqrylqBZ/giphy.gif" alt="GIF" width="150" style="height: 150px; object-fit: fill;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmoudmiehob&theme=solarized_dark&utcOffset=8"alt="Daniel's GitHub Stats" style="height: 151px; object-fit: fill;">
+<img src="https://media.giphy.com/media/k1g9hVriuo6Hs4Ty9I/giphy.gif" alt="GIF" width="316" style="height: 150px; object-fit: fill;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="730">
+<p>
+</div>
+
+
+
 <!----
+
+
+
+
     <div style="display: flex; flex-direction: column; width: 286px;">
        <img align="left" width="290" height="100" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" width="290" style="height: 400px; object-fit: fill;">
  <p>
@@ -63,18 +89,24 @@ width="400">
  <p>
      <img align="left" width="400" height="100" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" width="450" style="height: 200px; object-fit: fill;">
 </p>
-<div style="display: flex; flex-direction: column; width: 286px;">
-<
 </div>
-<img align="left" width="290" height="40" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" style="height: 370px; object-fit: fill;">
-<p float="left">
+<div style="display: flex; flex-direction: column; width: 286px;">
+    <p>
+   <img align="left" width="290" height="40" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" style="height: 370px; object-fit: fill;">
+ float="left">
         <img align="left"src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sensabg&theme=solarized_dark&exclude=rust" alt="Daniel's GitHub Stats" hspace="50"  width="300px" style="float:left; padding-right:50px" }
     <p>
         <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" hspace="50"  width="300px" style="float:left; padding-right:10px" }
     </p>
 </p>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="1000">
+<div style="display: flex; flex-direction: column; width: 286px;">
+  <img align="left" width="290" height="40" src="https://media.giphy.com/media/91pmJROMJK0kHBIbq7/giphy.gif" alt="GIF" style="height: 370px; object-fit: fill;">
+
+
+
+
+
 
 
 <!--
