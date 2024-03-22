@@ -68,15 +68,16 @@ width="400">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="767">
 
 
-<!--  <img 
+
 <p>
+<img 
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdxbHZqODUyZWduZmo0dmc0bnlva3U1aXZjZjRvbmo2YXdpc2t2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Rqp0gmYxa5rtcGFw3/giphy.gif" style="height: 128px; object-fit: cover;">
  <img src="https://media.giphy.com/media/u7J4UYXnYU92zTFaay/giphy.gif" style="height: 128px; object-fit: cover;">
  <img src="https://media.giphy.com/media/e2bGuFrvCTv6xfJ8UF/giphy.gif" style="height: 127px; object-fit: cover;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtbHBzYWI1dW93dmN1c2Y3MnAweHd3Y2s5dmJtaGcxeWthd3ZldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hz2dFR9ZcWK2kQBfMK/giphy.gif" style="height: 128px; object-fit: cover;">
 <img src="https://media.giphy.com/media/jhclWwqJRRXXX8OS00/giphy.gif" style="height: 128px; object-fit: cover;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="767">
-</p> -->
+</p> 
 
 
 <!---
