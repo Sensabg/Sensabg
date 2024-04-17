@@ -57,7 +57,7 @@ width="400">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="767">
 <div style="position: absolute;">
   <img src="https://media.giphy.com/media/xg2jowPlHhIp4koVAm/giphy.gif" alt="GIF" width="250" style="height: 149px; object-fit: cover;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub" style="height: 150px; object-fit: cover;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sensabg&theme=solarized_dark&exclude=" alt="Daniel's GitHub" style="height: 150px; object-fit: cover;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sensabg&theme=solarized_dark" alt="Daniel's GitHub Stats" style="height: 150px; object-fit: cover;">
 <div style="position: absolute;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="767">
