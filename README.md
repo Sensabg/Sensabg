@@ -1,7 +1,8 @@
 <p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" width="767">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=6000&pause=10&color=26F714&multiline=true&random=false&width=800&height=55&lines=Welcome+to+my+profile!;Enjoy+your+digital+ride!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&duration=6000&pause=10&color=26F714&multiline=true&random=false&width=800&height=55&lines=Welcome+on+board!;Enjoy+your+digital+ride!)
+
 <!--
  <img src="https://komarev.com/ghpvc/?username=Sensabg&label=Profile%20Views&color=1aac15&style=flat" alt="Sensabg" width="150px" height="auto">
 ![GIF](https://media.giphy.com/media/JmJMzlXOiI0dq/giphy.gif?cid=790b7611ltyznxlqucqtkd572ski7amk1nplrak6fk4tje3h&ep=v1_gifs_search&rid=giphy.gif&ct=g)
